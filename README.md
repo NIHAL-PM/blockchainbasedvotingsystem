@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blockchain-Based Voting System
 
 A secure and transparent decentralized voting system built on blockchain technology, featuring a modern UI with glassmorphic effects and real-time animations.
